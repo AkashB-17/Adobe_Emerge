@@ -5,7 +5,7 @@ import time
 import os
 
 # API Key for Groq
-api_key = "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"
+api_key = " ** "
 
 # Global variable to keep track of the total number of tokens
 total_tokens = 0
